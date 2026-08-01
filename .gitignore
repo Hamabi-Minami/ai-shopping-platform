@@ -1,0 +1,17 @@
+## .NET / C# Build Artifacts
+**/[Bb]in/
+**/[Oo]bj/
+**/[Ll]og/
+**/[Ll]ogs/
+
+## Visual Studio & VS Code Configuration & Cache
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Sensitive Information / Environment Settings
+**/appsettings.Development.json
+**/appsettings.Local.json
