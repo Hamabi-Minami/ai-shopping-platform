@@ -1,0 +1,17 @@
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Infrastructure\bin\Debug\net9.0\MyShippingPlatform.Infrastructure.deps.json
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Infrastructure\bin\Debug\net9.0\MyShippingPlatform.Infrastructure.dll
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Infrastructure\bin\Debug\net9.0\MyShippingPlatform.Infrastructure.pdb
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Infrastructure\bin\Debug\net9.0\MyShippingPlatform.Application.dll
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Infrastructure\bin\Debug\net9.0\MyShippingPlatform.Domain.dll
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Infrastructure\bin\Debug\net9.0\MyShippingPlatform.Application.pdb
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Infrastructure\bin\Debug\net9.0\MyShippingPlatform.Domain.pdb
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Infrastructure\obj\Debug\net9.0\MyShippingPlatform.Infrastructure.csproj.AssemblyReference.cache
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Infrastructure\obj\Debug\net9.0\MyShippingPlatform.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Infrastructure\obj\Debug\net9.0\MyShippingPlatform.Infrastructure.AssemblyInfoInputs.cache
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Infrastructure\obj\Debug\net9.0\MyShippingPlatform.Infrastructure.AssemblyInfo.cs
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Infrastructure\obj\Debug\net9.0\MyShippingPlatform.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Infrastructure\obj\Debug\net9.0\MyShippi.E824AA3E.Up2Date
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Infrastructure\obj\Debug\net9.0\MyShippingPlatform.Infrastructure.dll
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Infrastructure\obj\Debug\net9.0\refint\MyShippingPlatform.Infrastructure.dll
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Infrastructure\obj\Debug\net9.0\MyShippingPlatform.Infrastructure.pdb
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Infrastructure\obj\Debug\net9.0\ref\MyShippingPlatform.Infrastructure.dll

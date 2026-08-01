@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "MyShippingPlatform.Api.Controllers.ShipmentsController",
+    "Method": "Approve",
+    "RelativePath": "api/Shipments/{id}/approve",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyShippingPlatform.Api.Controllers.TestAgentController",
+    "Method": "TestAudit",
+    "RelativePath": "api/TestAgent/test-audit/{shipmentId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shipmentId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

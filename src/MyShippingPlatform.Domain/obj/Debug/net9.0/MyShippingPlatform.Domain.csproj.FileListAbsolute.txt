@@ -1,0 +1,12 @@
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Domain\bin\Debug\net9.0\MyShippingPlatform.Domain.deps.json
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Domain\bin\Debug\net9.0\MyShippingPlatform.Domain.dll
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Domain\bin\Debug\net9.0\MyShippingPlatform.Domain.pdb
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Domain\obj\Debug\net9.0\MyShippingPlatform.Domain.csproj.AssemblyReference.cache
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Domain\obj\Debug\net9.0\MyShippingPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Domain\obj\Debug\net9.0\MyShippingPlatform.Domain.AssemblyInfoInputs.cache
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Domain\obj\Debug\net9.0\MyShippingPlatform.Domain.AssemblyInfo.cs
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Domain\obj\Debug\net9.0\MyShippingPlatform.Domain.csproj.CoreCompileInputs.cache
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Domain\obj\Debug\net9.0\MyShippingPlatform.Domain.dll
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Domain\obj\Debug\net9.0\refint\MyShippingPlatform.Domain.dll
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Domain\obj\Debug\net9.0\MyShippingPlatform.Domain.pdb
+F:\Codes\C#\MyShippingPlatform\src\MyShippingPlatform.Domain\obj\Debug\net9.0\ref\MyShippingPlatform.Domain.dll

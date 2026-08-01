@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <!-- Swashbuckle 9.0 对应 .NET 9，不要写 10.x -->
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="7.0.0" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyShippingPlatform.Application\MyShippingPlatform.Application.csproj" />
+    <ProjectReference Include="..\MyShippingPlatform.Domain\MyShippingPlatform.Domain.csproj" />
+    <ProjectReference Include="..\MyShippingPlatform.Infrastructure\MyShippingPlatform.Infrastructure.csproj" />
+  </ItemGroup>
+  
+</Project>
